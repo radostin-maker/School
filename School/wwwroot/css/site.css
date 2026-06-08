@@ -29,3 +29,20 @@ body {
 .form-floating > .form-control-plaintext:focus::placeholder, .form-floating > .form-control:focus::placeholder {
   text-align: start;
 }
+
+.para1 {
+    color: #258cfb;
+    padding: 16px;
+}
+
+.buy {
+    padding: 12px 42px;
+    background-color: brown;
+    color: white;
+}
+
+.start {
+    padding: 12px 42px;
+    background-color: darkgreen;
+    color: gold;
+}
